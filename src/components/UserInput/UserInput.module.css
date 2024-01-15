@@ -1,0 +1,16 @@
+input {
+  width: 150px;
+  height: 40px;
+  border-color: grey;
+  border-radius: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+button {
+  width: 150px;
+  height: 40px;
+  background-color: white;
+  border-radius: 10px;
+  border-color: rgb(242, 195, 42);
+}

@@ -1,0 +1,28 @@
+.board {
+  height: 610px;
+  width: 1210px;
+  background-color: rgb(255, 140, 0);
+}
+
+.container {
+  /* justify-content: center;
+  align-items: start;
+  display: flex; */
+  position: relative;
+  width: 100%;
+  margin: 50px;
+}
+
+.width-size {
+  text-align: right;
+}
+
+.height-size {
+  text-align: left;
+}
+
+.text-vert {
+  display: block;
+  width: 20px;
+  transform: rotate(-90deg);
+}
